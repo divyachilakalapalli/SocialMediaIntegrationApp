@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sparks SMI app</string>
+    <string name="facebook_app_id">833212720370098</string>
+    <string name="fb_login_protocol_scheme">fb833212720370098</string>
+    <string name="login_to_facebook">LOGIN TO FACEBOOK</string>
+    <string name="name">NAME</string>
+    <string name="email">Email</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">HWQZZaFQWtgkEfFtHDflY7CBI</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">La2nX9vhCD2ARW5p6bMWEXcgbBCBc8sIGb1BilFltvYzkYCXgN</string>
+</resources>
